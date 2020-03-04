@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 1장. Artificial Intelligence
-category: Artificial Intelligence
+category: Machine Learning
 tags: [Artificial Intelligence]
 ---
 
@@ -82,7 +82,7 @@ result := model.diagnose(patient)
 
 ---
 
-# 3 Problems
+# 3. Problems
 인공지능은 여타 분야와 마찬가지로 여러 문제를 직면하고 있다.
 ## 3.1 인공지능 개념 자체의 모호함
 1950년대 여러 과학자들은 기계가 스스로 생각을 할 수 있을 때, 이를 인공지능이라고 하자고 했다. 사실 이는 컴퓨터 과학적 접근이라기 보다는 심리학적 접근이였다. 인공적인 두뇌의 가능성을 논의함에 따라 인공지능이 학문 분야로 들어선 것이다. 그래서인지 과거의 인공지능 개념은 현대의 컴퓨터 과학과는 잘 맞지 않는다.
@@ -107,14 +107,14 @@ result := model.diagnose(patient)
 ## 3.3 강인공지능
 사람의 신경계도 완벽하게 파악하지는 못한 지금, 강인공지능을 구현하는 것은 넌센스이다. 과연 사람같은 강인공지능을 만들어 낼 수 있을지도 의문이다. 나중에 기술력이 굉장히 발전해서 강인공지능을 만들 수 있게 되더라도, 큰 문제가 발생한다. 만약 인공지능이 자아를 갖고 자유의지를 행할 수 있게 된다면, 이 인공지능을 사람처럼 인정해주어야하냐 하는 문제가 발생한다. 또한 엘론 머스크가 경고한 것처럼 초지능을 갖는 인공지능이 독재자처럼 행동할 수도 있다.
 
-다행중 다행인 것은 아직까진 강인공지능이 구현되기는 먼 것으로 보인다는 것이다. Siri, 빅스비, OkGoogle은 소리를 인식하고 이를 처리하고 다시 말을 해준다. 어떻게 보면, 강인공지능처럼 보인다. 하지만 아직까지는 소리를 인식하는 약인공지능, 이를 처리하는 약인공지능, 말을 하는 약인공지능의 조합일 뿐이다.
+다행 중 다행인 것은 아직까진 강인공지능이 구현되기는 멀어 보인다는 것이다. Siri, 빅스비, OkGoogle은 소리를 인식하고 이를 처리하고 다시 말을 해준다. 어떻게 보면, 강인공지능처럼 보인다. 하지만 아직까지는 소리를 인식하는 약인공지능, 이를 처리하는 약인공지능, 말을 하는 약인공지능의 조합일 뿐이다.
 
 ---
 
 # 4. References
-> [1] https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5
-[2] https://www.csee.umbc.edu/courses/471/papers/turing.pdf
-[3] http://cogprints.org/7150/1/10.1.1.83.5248.pdf
-[4] https://www.tricentis.com/artificial-intelligence-software-testing/ai-approaches-rule-based-testing-vs-learning/
-[5] http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf
-[6] https://arxiv.org/abs/1606.04934
+> [1][https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5](https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
+[2][https://www.csee.umbc.edu/courses/471/papers/turing.pdf](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+[3][http://cogprints.org/7150/1/10.1.1.83.5248.pdf](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)
+[4][https://www.tricentis.com/artificial-intelligence-software-testing/ai-approaches-rule-based-testing-vs-learning/](https://www.tricentis.com/artificial-intelligence-software-testing/ai-approaches-rule-based-testing-vs-learning/)
+[5][http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf](http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf)
+[6][https://arxiv.org/abs/1606.04934](https://arxiv.org/abs/1606.04934)
