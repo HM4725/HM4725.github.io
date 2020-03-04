@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               HM`s blog
-tagline:             'Connect everythings'
+tagline:             'Connect everything'
 description:         'HMC softi'
 url:                 https://hm4725.github.io
 baseurl:             ''
@@ -15,7 +15,8 @@ paginate:            5
 # About/contact
 author:
   name:              Hyeon min Lee
-  url:               https://www.instagram.com/hm_softi/
+  github:               https://github.com/HM4725
+  instagram:         https://www.instagram.com/hm_softi/
   email:             4725hmc@gmail.com
 
 # Custom vars
